@@ -79,6 +79,17 @@ Caption-guided few-shot prompting using exemplar Q&A pairs.
 | BLIP-2 OPT | 0.38 | 0.39 |
 | BLIP-2 FLAN | 0.37 | 0.52 |
 
+## 📄 Related Publication
+
+**Automated Construction Hazard Recognition and Captioning  
+With Contrastive Language Image Pre-training (CLIP) and Bootstrapping Language Image Pre-training (BLIP) Vision-Language Models (VLMs): Does Prompt Engineering Improve Precision?**
+
+*Sharmin Jahan Badhan and Reihaneh Samsami*  
+ASCE International Conference on Computing in Civil Engineering (i3CE), 2026
+
+This study explores the use of vision-language models (VLMs), including CLIP and BLIP, for automated hazard recognition and captioning in construction environments. The research evaluates the impact of prompt engineering on model precision, contributing to safer and more intelligent construction inspection workflows.
+
+
 ## Authors
 - Sharmin Jahan Badhan
 - Reihaneh Samsami
