@@ -15,31 +15,6 @@ This repository contains the code for our study on **automated construction haza
 | **BLIP-2 OPT-2.7B** | Pretrained | Vision-language model for VQA |
 | **BLIP-2 FLAN-T5-XL** | Pretrained | Instruction-tuned VLM for improved reasoning and prompt sensitivity |
 
----
-
-## Repository Structure  
-
-```
-Hazard-Recognition_BLIP-CLIP/
-├── data/
-├── models/
-├── scripts/
-├── utils/
-├── configs/
-├── results/
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Setup  
-
-```
-git clone https://github.com/sharmin3036/Hazard-Recognition_BLIP-CLIP.git
-cd Hazard-Recognition_BLIP-CLIP
-pip install -r requirements.txt
-```
 
 ---
 
